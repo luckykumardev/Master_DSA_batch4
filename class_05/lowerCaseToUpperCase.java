@@ -1,4 +1,4 @@
-package class_04;
+package class_05;
 
 public class lowerCaseToUpperCase {
 	
