@@ -1,7 +1,9 @@
-package class_04;
+package class_05;
 
 import java.util.HashMap;
-
+/*
+ https://leetcode.com/problems/copy-list-with-random-pointer/submissions/387728771/
+*/
 public class CloneALinkedListWithNextAndRandomPointer {
 	
 	class Node {

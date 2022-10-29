@@ -1,9 +1,12 @@
-package class_04;
+package class_05;
 
 /*
   https://leetcode.com/problems/swap-nodes-in-pairs/submissions/
 */
+
+
 public class PairwiseSwapElementsOfALinkedList {
+
 	public Node swapPairs(Node head) {
 		Node dummy = new Node(-1);
 		Node prev = dummy;

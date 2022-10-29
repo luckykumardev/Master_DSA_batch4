@@ -1,4 +1,4 @@
-package class_05;
+package class_06;
 
 public class Round_up_to_the_next_highest_power_of_2 {
 
