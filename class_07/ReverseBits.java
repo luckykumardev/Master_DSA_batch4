@@ -1,4 +1,4 @@
-package class_06;
+package class_07;
 /*
  https://leetcode.com/problems/reverse-bits/description/
 */

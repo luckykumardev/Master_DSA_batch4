@@ -1,4 +1,4 @@
-package class_06;
+package class_07;
 
 import java.util.HashMap;
 import java.util.Map;
