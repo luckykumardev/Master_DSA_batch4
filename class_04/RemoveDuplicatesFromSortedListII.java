@@ -1,4 +1,4 @@
-package class_05;
+package class_04;
 
 /*
  https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/

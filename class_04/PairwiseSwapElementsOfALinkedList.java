@@ -1,4 +1,4 @@
-package class_05;
+package class_04;
 
 /*
   https://leetcode.com/problems/swap-nodes-in-pairs/submissions/

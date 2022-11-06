@@ -1,4 +1,4 @@
-package class_05;
+package class_04;
 
 import java.util.HashMap;
 /*

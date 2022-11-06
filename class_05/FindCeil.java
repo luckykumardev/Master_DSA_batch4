@@ -1,4 +1,4 @@
-package class_06;
+package class_05;
 
 public class FindCeil {
 	static int findCeil(long arr[], int n, long x) {

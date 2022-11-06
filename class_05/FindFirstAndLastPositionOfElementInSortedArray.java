@@ -1,4 +1,4 @@
-package class_06;
+package class_05;
 
 /*
  * https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/

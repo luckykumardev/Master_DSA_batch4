@@ -1,4 +1,4 @@
-package class_06;
+package class_05;
 /*
  
  https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1

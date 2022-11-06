@@ -1,4 +1,4 @@
-package class_06;
+package class_05;
 
 /*
  https://practice.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1

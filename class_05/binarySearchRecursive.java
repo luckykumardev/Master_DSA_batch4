@@ -1,4 +1,4 @@
-package class_06;
+package class_05;
 /*
  https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1	
 */	
@@ -10,19 +10,18 @@ public class binarySearchRecursive {
 	}
 	
 	int binarySearchHelper(int arr[], int l, int r, int x) {
+		if(r<l)
+			return -1;
 		
-		if (r >= l) {
-			int mid = l + (r - l) / 2;
+		int mid = l + (r - l) / 2;
 
-			if (arr[mid] == x)
-				return mid;
+		if (arr[mid] == x)
+			return mid;
 
-			if (arr[mid] > x)
-				return binarySearchHelper(arr, l, mid - 1, x);
+		if (arr[mid] > x)
+			return binarySearchHelper(arr, l, mid - 1, x);
 
-			return binarySearchHelper(arr, mid + 1, r, x);
-		}
-
-		return -1;
+		return binarySearchHelper(arr, mid + 1, r, x);		
+			
 	}
 }
