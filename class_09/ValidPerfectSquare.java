@@ -1,4 +1,4 @@
-package class_08;
+package class_09;
 
 public class ValidPerfectSquare {
 	  public static boolean isPerfectSquare(int num) {
