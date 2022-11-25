@@ -1,7 +1,7 @@
-package class_09;
+package class_10;
 import java.util.Stack;
 /*
-https://leetcode.com/problems/decode-string/
+ https://leetcode.com/problems/decode-string/
 */
 public class DecodeString {
 	 public String decodeString(String s) {
