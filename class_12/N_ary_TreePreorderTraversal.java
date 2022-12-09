@@ -3,8 +3,8 @@ package class_12;
 import java.util.ArrayList;
 import java.util.List;
 
+// - up to down - pre processing
 public class N_ary_TreePreorderTraversal {
-
 	
 	public static void main(String[] args) {
 		TreeNode root  = new TreeNode(100);

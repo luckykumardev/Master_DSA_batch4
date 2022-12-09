@@ -1,4 +1,4 @@
-package class_13;
+package class_15;
 
 public class Node {
 	int data;

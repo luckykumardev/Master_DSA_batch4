@@ -3,6 +3,9 @@ package class_12;
 import java.util.ArrayList;
 import java.util.List;
 
+// down to up - post processing
+
+
 public class N_ary_TreePostOrderTraversal {
 
 	
@@ -33,8 +36,7 @@ public class N_ary_TreePostOrderTraversal {
 	private static void helper(TreeNode root, List<Integer> ans){
 	        if(root == null) 
 	            return;
-	        
-	        
+	           
 	       List<TreeNode> children = root.children;
 	       for(int i =0; i <children.size(); i++){
 		      helper(children.get(i), ans);
