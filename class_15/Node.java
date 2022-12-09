@@ -1,11 +1,12 @@
 package class_15;
 
 public class Node {
-	int data;
+	int val;
+	Node left;
+	Node right;
 	Node next;
-
-	Node(int x) {
-		data = x;
-		next = null;
+	public Node(int val) {
+		this.val = val;
 	}
+	
 }
