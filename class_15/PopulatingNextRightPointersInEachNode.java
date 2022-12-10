@@ -1,4 +1,4 @@
-package class_14;
+package class_15;
 
 /*
  https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
