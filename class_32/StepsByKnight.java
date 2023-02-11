@@ -1,4 +1,4 @@
-package class_31;
+package class_32;
 
 import java.util.LinkedList;
 import java.util.Queue;
