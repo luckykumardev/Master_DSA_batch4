@@ -1,4 +1,4 @@
-package class_34;
+package class_35;
 
 import java.util.ArrayList;
 import java.util.PriorityQueue;

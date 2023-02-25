@@ -6,8 +6,9 @@ import java.util.List;
 import java.util.Queue;
 
 /*
- https://leetcode.com/problems/clone-graph/
-*/
+  - https://leetcode.com/problems/clone-graph/
+  - map of original vs dummy node
+ */
 public class clone_graph {
 	public Node cloneGraph(Node node) {
 	      if(node == null)
