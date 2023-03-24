@@ -1,4 +1,4 @@
-package class_37;
+package class_38;
 
 /*
 https://leetcode.com/problems/minimum-cost-for-tickets/
